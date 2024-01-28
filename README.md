@@ -1,6 +1,8 @@
-# Calculator 
+# Calculator 📱
 
 This is a simple calculator project created using HTML and CSS.
+
+## Table of Contents 
 
 ## Features
 
@@ -27,4 +29,10 @@ This is a simple calculator project created using HTML and CSS.
 
 Contributions are welcome! Fork the repository and create a pull request with your enhancements.
 
+👉Fork the repository</br>
+👉Create a new branch (git checkout -b feature/new-feature)</br>
+👉Commit your changes (git commit -m 'Add new feature')</br>
+👉Push to the branch (git push origin feature/new-feature)</br>
+👉Open a pull request</br>
 
+THANK❤️YOU-K.G.SHREYA❤️
