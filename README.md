@@ -1,4 +1,4 @@
-# Calculator 📱
+# CALCULATOR 📱
 
 This is a simple calculator project created using HTML and CSS.
 
